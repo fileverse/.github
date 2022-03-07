@@ -57,3 +57,4 @@ Your donations would help us focus on:
 * Notifications (EPNS and Etherscan/Blockscan Chat integration).
 * Use-cases 1 and 4 are available for everyone to enjoy. And use-cases 2 and 3 are being developed but require testing and optimisation. The third use case will be a paying option for teams or communities who need lots of space and tailored features.
 
+If you have any questions, feel free to ping us on Twitter - https://twitter.com/fileverseio
