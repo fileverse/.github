@@ -1,6 +1,6 @@
 # Fileverse
 
-North Star: Easier file sharing tool for web3 communities. 
+Simple file sharing between blockchain addresses. A tool for Web3 communities and individuals. 
 
 ## About
 
@@ -56,5 +56,12 @@ Your donations would help us focus on:
 * Maintaining nodes on different p2p data storage networks.
 * Notifications (EPNS and Etherscan/Blockscan Chat integration).
 * Use-cases 1 and 4 are available for everyone to enjoy. And use-cases 2 and 3 are being developed but require testing and optimisation. The third use case will be a paying option for teams or communities who need lots of space and tailored features.
+
+You can also help us in other ways:
+* Star our Github repo!
+* Use our app and tell people about it! 
+* Become a contributor to Fileverse. Build your own Web3 portfolio by supporting public goods! 
+* Give us feedback by creating Github issues. 
+* Follow us on Twitter: https://twitter.com/Fileverseio
 
 If you have any questions, feel free to ping us on Twitter - https://twitter.com/fileverseio
