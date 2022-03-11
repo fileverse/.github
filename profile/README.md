@@ -41,6 +41,8 @@ We believe it should be open source, use peer-to-peer storage, offer privacy thr
 
 ## Your Help and the Roadmap
 
+Please consider donating to our public goods grant: https://gitcoin.co/grants/4846/fileverseio-file-sharing-between-blockchain-addre
+
 Your donations will help us work on Fileverse as much as we would like. That is, A LOT.
 
 It will help us reach the next development milestones we have planned to make Fileverse.io the most simple, secure and open file sharing tool on the Internet.
@@ -54,6 +56,7 @@ Your donations would help us focus on:
 * Diversify the data storage networks we use. Arweave and StorJ offer unique advantages that we want to explore. 
 * Increase the speed of upload and viewing files.
 * Maintaining nodes on different p2p data storage networks.
+* ENS integration.
 * Notifications (EPNS and Etherscan/Blockscan Chat integration).
 * Use-cases 1 and 4 are available for everyone to enjoy. And use-cases 2 and 3 are being developed but require testing and optimisation. The third use case will be a paying option for teams or communities who need lots of space and tailored features.
 
