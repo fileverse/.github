@@ -2,69 +2,69 @@
 
 Simple file sharing between blockchain addresses. A tool for Web3 communities and individuals. 
 
-## About
+## About Fileverse
 
-Have you ever wanted to share a file with your favorite blockchain address, like vitalik.eth? Or favorite community, say Cryptopunk holders? Or even just a group of anons not using Google Drive or Dropbox?
+File-sharing and access management is one of the most important and basic activities on the Internet.
 
-You can now simply drag and drop your files on Fileverse, and choose who can access them just by leveraging the Ethereum blockchain & your wallet.
+We do it to share our ideas, our work, our memes. We do it to collaborate with each other online, to create an identity or simply to communicate with others.
 
-We are building Fileverse to make it super easy for individuals, teams, communities, and DAOs, to upload, encrypt and share files with any number of ethereum addresses, while storing on decentralized data storage protocols like IPFS.
+Now is the time to do it with a Web3 tech stack. Now is the time to use Fileverse.
 
-What should file sharing between blockchains addresses look like? 
+Fileverse gives everyone the ability to securely store and share content (audio, video, images, documents, and more) in just a few clicks –using nothing but their digital wallet. Share files with anyone, chat with friends, collaborate with everyone à la Web3.
 
-We believe it should be open source, use peer-to-peer storage, offer privacy through strong encryption, have content-addressing to uniquely identify files, and require only a wallet connection to work. No names, no emails and no someone who can censor your files.
+Forget Dropbox, WeTransfer & Google Drive/Workplace. Start sharing files and information like a true Web3 native.
+Why it matters? web2 vs new alternatives
+
+### Files x Web2
+
+All of us distribute and provide access to digital media: multimedia (images, audio and video), all types of documents, sketches, electronic books, amongst others.
+Today, consumer file-storage, sharing, and access management happens via centralised services (Web2).
+
+Traditional services made it easy and free to share files with access restrictions. But, they all come with recurring problems:
+
+* Intrusive advertisement, server outages, privacy invasions, identity / personal data leakage, censorship and opt-in (if any at all) content encryption.
+* When they offer free solutions, you become the product.
+
+### Files x Web3
+
+Fileverse solves the main pain points of Web2 file sharing services, while also innovating in access rights management and content encryption. We believe that now is the time to share information by using a Web3 tech stack.
+
+Yes. Fileverse is the product, not you.
+
+Fileverse is your Web3 file-sharing tool leveraging p2p storage networks (like IPFS) and encryption enabled via crypto wallets’ (eg. MetaMask) private key signatures.
+
+No names, no emails, no server outage, no privacy violations, no censorship. File sharing for on-chain communities should only use wallets, alphanumeric strings, EVM chains and p2p storage.
+
+Our DApp collapses all the complexities and benefits of IPFS and other peer-to-peer storage networks, Ethereum/EVMs, Layer 2 chains, and wallet-enabled file encryption, into one intuitive & simple-to-use tool for communication and collaboration.
+
+Your file. Your wallet. Your rules.
+
+## What's next?
+
+On-chain individuals and communities need (private!) on-chain tools for communication and collaboration.
+
+There has never been a better time to build a mainstream, non-hyper-financial Web3 application.
+
+Vitalik and many others in the space have been calling for this for a long time, but it has only now become possible to develop DApps ready for mass usage thanks to recent L2 developments, ZK tech advancements, the growing user-base of popular wallets like MetaMask, and the scaling of IPFS, Arweave and others.
+
+On this exciting journey to decentralization and scalability, we need intuitive apps, ease-of-use, and a low barrier to entry for users –doing away with obligatory token purchase/spending or high technical knowledge to use a DApp.
+
+We are all on a journey to bring the next billion users to Web3.
+
+## The Fileverse way
+
+**Here at Fileverse we are contributing by building a useful, secure & decentralised file-sharing tool. An app with a low barrier to entry for one of the most important activities on the internet: file sharing. This is Fileverse.**
+
+It all started with a gitcoin grant and a big dream –building a public good that is just as appealing to Web2 users as to Web3 users. More than 7300 donors and some of our favourite Ethereum builders supported this vision to build a tool you will all love because of its simplicity and usefulness, without cutting corners on decentralization!
+
+Our research and product development efforts are driven by two core objectives:
+
+* Building a public good that is just as appealing to Web2 users as it is to Web3 users.
+* Educate & onboard the next big wave of new users to Web3 without compromising on decentralisation.
 
 
+We collapse all the complexities and benefits of IPFS, Ethereum/EVMs, Layer 2 chains, and wallet-enabled file encryption, into one super simple-to-use tool for communication and collaboration.
 
-### Let’s explore some use-cases together:
+Fileverse wouldn't exist without these trailblazers: -@ethereum  &  @0xPolygon  - @IPFS  - @MetaMask  - @gnosischain  & @StarkWareLtd  - @orbitDB & @pinatacloud -@dappNode  - @moralis  -@nftport_xyz  - @zapper_fi  - @Alchemy And MANY more individual cryptographers & developers who built several components and tools at the heart of Fileverse 🙌
 
-1. Do you have exclusive announcements or alpha that you want to share with your token holders or fellow DAO members? Are you a crypto news outlet or podcast that still sends exclusive content to your paying subscribers via EMAIL or DISCORD??? 
-
-    You can now share a document, image or video with anyone that owns a specific NFT (e.g. BAYC or a membership NFT) or token (eg. GTC). Drag and drop the file on Fileverse, set the viewing requirements, and share the link with the world.
-
-    No one will be able to access the file (view & download) except for the addresses that own the NFT or token you set as the access requirement (we call that token-gating). 
-
-
-2. Want to share a file with your really diverse community but not everyone has an NFT or tokens in common? Are you a crypto conference organizer that still shares timetables and event details via DROPBOX???
-  
-    Worry not, anon. With Fileverse you can now mint NFTs/tokens and distribute them to all the addresses you want. All that in just a few clicks and with near zero fees thanks to the magic of L2s (xDai/Gnosis chain). The new owners of your NFT/token can now enjoy exclusive content using only their wallet.
-
-
-3. What? You want to have a permanent URL for your team or community to access token-gated files from? One place to see all files dedicated to your friends? 
-
-    Easy. You can create your own fileverse sub-domain, like Loot.fileverse.io, and use it as your one-stop-shop for all of your token-gated content.
-
-
-4. Tired of being told crypto or Web3 is just for gambling? Do you want to show your friends and family an easy and useful Web3 tool that does not involve buying or selling anything? Boïïï do we have a website for you! 
-
-    Fileverse can also be used as a simple interface to publish and view content via peer-to-peer storage (IPFS). Introduce your friends and family to decentralized file sharing. They don’t even have to download a wallet to enjoy a basic version of this. Tell them “it’s like google drive, but better”, that should do the trick. 
-
-## Your Help and the Roadmap
-
-Please consider donating to our public goods grant: https://gitcoin.co/grants/4846/fileverseio-file-sharing-between-blockchain-addre
-
-Your donations will help us work on Fileverse as much as we would like. That is, A LOT.
-
-It will help us reach the next development milestones we have planned to make Fileverse.io the most simple, secure and open file sharing tool on the Internet.
-
-More importantly, it will help us keep Fileverse free for all. Managing storage on different peer-to-peer data storage networks, running and maintaining nodes on those networks, keeping the highest level of security without compromising on decentralization, all that requires work and funds.
-
-Your donations would help us focus on:
-* End-to-end encryption for file sharing between blockchain addresses. The current system has transport and content encryption, but it is not yet end-to-end.
-* Increasing the amount of free storage available to users.
-* Adding comments on your files for others to see.
-* Diversify the data storage networks we use. Arweave and StorJ offer unique advantages that we want to explore. 
-* Increase the speed of upload and viewing files.
-* Maintaining nodes on different p2p data storage networks.
-* ENS integration.
-* Notifications (EPNS and Etherscan/Blockscan Chat integration).
-* Use-cases 1 and 4 are available for everyone to enjoy. And use-cases 2 and 3 are being developed but require testing and optimisation. The third use case will be a paying option for teams or communities who need lots of space and tailored features.
-
-You can also help us in other ways:
-* Star our Github repo!
-* Use our app and tell people about it! 
-* Become a contributor to Fileverse. Build your own Web3 portfolio by supporting public goods! 
-* Give us feedback by creating Github issues. 
-* Follow us on Twitter: https://twitter.com/Fileverseio
-
-If you have any questions, feel free to ping us on Twitter - https://twitter.com/fileverseio
+Supported by 10,000+ donors 
