@@ -1,12 +1,10 @@
 # Fileverse
-**Self-sovereign collaboration suite –onchain, p2p, encrypted**
-
 
 ### Fileverse - Discover Trustless Collaboration 
 
 Fileverse is your decentralized alternative to Notion and Google Workspace. Use it to write notes, live collab on docs, sketch ideas, organize your files, manage a knowledgebase, create a personal webpage and more - individually or as a group. 
 
-<a href="https://excalidraw.com/" target="_blank" rel="noopener">
+<a href="https://fileverse.io" target="_blank" rel="noopener">
   <picture>
     <img alt="Excalidraw" src="https://files.slack.com/files-pri/T031N5YENTU-F06T1MAFFPU/image.png?pub_secret=04a043277d" />
   </picture>
