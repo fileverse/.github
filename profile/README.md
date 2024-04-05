@@ -1,6 +1,6 @@
 # Fileverse
 
-### Fileverse - Discover Trustless Collaboration 
+### Discover Trustless Collaboration 
 
 Fileverse is your decentralized alternative to Notion and Google Workspace. Use it to write notes, live collab on docs, sketch ideas, organize your files, manage a knowledgebase, create a personal webpage and more - individually or as a group. 
 
