@@ -26,4 +26,4 @@ Create your own ideal space for everyday online/onchain activities:
 Fileverse also released the [HeartBit SDK](https://fileverse.io/heartbit): provable, time-based onchain "Likes" that people generate by simply engaging with your app, website, onchain media, Frame or OpenAction for Farcaster and Lens protocols! 
 
 ### Learn More
-Visit [fileverse.io](https://fileverse.io/?ref=fileverse.ghost.io) or follow us on [Twitter](https://twitter.com/fileverse?ref=fileverse.ghost.io) for the latest updates. Fileverse is in private beta but you can ping the team a DM if you want a sneak peek into the future of trustless collaboration <3
+Visit [fileverse.io](https://fileverse.io) or follow us on [Twitter](https://twitter.com/fileverse) for the latest updates. Fileverse is in private beta but you can ping the team a DM if you want a sneak peek into the future of trustless collaboration <3
