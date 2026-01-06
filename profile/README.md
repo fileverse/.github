@@ -6,9 +6,12 @@ Fileverse is your decentralized alternative to Notion and Google Workspace. Use 
 
 <a href="https://fileverse.io" target="_blank" rel="noopener">
   <picture>
-    <img alt="Excalidraw" src="https://files.slack.com/files-pri/T031N5YENTU-F06T1MAFFPU/image.png?pub_secret=04a043277d" />
+    <img alt="image" src="https://github.com/user-attachments/assets/929d46c5-9570-4b9c-ade2-b97b6e6d64a2" />
   </picture>
 </a>
+
+
+
 
 ### About Fileverse
 In an era where online collaboration is controlled by monopolistic platforms that compromise privacy and creativity, Fileverse is building healthier alternatives with at its core self-sovereignty, privacy by design, and standards compliance. 
