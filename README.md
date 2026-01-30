@@ -1,1 +1,1 @@
-# .github
+# .License (GNU GPL v3.0)
