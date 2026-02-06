@@ -1,1 +1,1 @@
-# .License (GNU GPL v3.0)
+# LICENSE (GNU GPL v3.0)
