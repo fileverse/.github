@@ -16,9 +16,11 @@ Fileverse is your end-to-end encrypted, decentralized alternative to Google Work
 ### About Fileverse
 We believe in a healthier Internet built on open standards, privacy by design, and data sovereignty. Today, online collaboration and workspaces are mainly serviced through centralized platforms that lock people in and continuously compromise their privacy. Fileverse offers an open alternative that is fast and simple to migrate to.
 
-💛 [ddocs.new](http://ddocs.new/) (Public Beta) is your privacy-enhancing alternative to Google Docs: end-to-end encrypted and decentralized. It supports both async and real-time collaboration, works seamlessly on mobile and desktop, and doesn’t require an account. With dDocs you can write, collaborate, and share knowledge in a self-sovereign way and without sacrificing privacy.
+👩‍🏭 [ddocs.new](http://ddocs.new/) (public beta) is your privacy-first alternative to Google Docs: an end-to-end encrypted and decentralized document editor. Unique dDocs features include: offline mode, Markdown/LaTeX support, suggestion mode, dark mode/themes, private ZK-powered access permissions and social recovery, and a private API optimised for AI agents and skills.
 
 👩‍🏭 [dsheets.new](http://dsheets.new/) (Public Beta): no-code query, read and manipulate financial & onchain data. Use it as your decentralized alternative to Excel and Google Sheets. Built on the same middleware as dDocs which guarantees your self-sovereignty & privacy, by design. Spreadsheets are the world’s most popular reactive functional programming language. dSheets made it ready for the global economy & open Internet.
+
+👩‍🔬 Fileverse API: enables LLMs (eg Claude, Codex, Cursor), tools, CLI scripts to create, edit, read, and delete end-to-end encrypted documents, sync notes from other apps, and add multiplayer agents or custom skills to docs via MCP. Local deployment keeps data on device at all times, cloud deployment allows always-on access. A secure and verifiable way of programmatically accessing dDocs.
 
 👩‍💻 [Fileverse Portal ](https://fileverse.io/portal)(Private Beta) is your collaborative space for everyday activities: peer-to-peer file-sharing and storage (with IPFS), publishing decentralized websites/knowledge bases/portfolios, collaborative document editing (via dDocs), brainstorming on whiteboards, and creating communities with decentralized account co-management (via Safe multisigs).
 
