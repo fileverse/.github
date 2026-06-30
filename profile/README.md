@@ -20,7 +20,7 @@ We believe in a healthier Internet built on open standards, privacy by design, a
 
 👩‍🏭 [dsheets.new](http://dsheets.new/) (Public Beta): no-code query, read and manipulate financial & onchain data. Use it as your decentralized alternative to Excel and Google Sheets. Built on the same middleware as dDocs which guarantees your self-sovereignty & privacy, by design. Spreadsheets are the world’s most popular reactive functional programming language. dSheets made it ready for the global economy & open Internet.
 
-👩‍🔬 Fileverse API: enables LLMs (eg Claude, Codex, Cursor), tools, CLI scripts to create, edit, read, and delete end-to-end encrypted documents, sync notes from other apps, and add multiplayer agents or custom skills to docs via MCP. Local deployment keeps data on device at all times, cloud deployment allows always-on access. A secure and verifiable way of programmatically accessing dDocs.
+👩‍🔬 [Fileverse API](https://www.npmjs.com/package/@fileverse/api): enables LLMs (eg Claude, Codex, Cursor), tools, CLI scripts to create, edit, read, and delete end-to-end encrypted documents, sync notes from other apps, and add multiplayer agents or custom skills to docs via MCP. Local deployment keeps data on device at all times, cloud deployment allows always-on access. A secure and verifiable way of programmatically accessing dDocs.
 
 👩‍💻 [Fileverse Portal ](https://fileverse.io/portal)(Private Beta) is your collaborative space for everyday activities: peer-to-peer file-sharing and storage (with IPFS), publishing decentralized websites/knowledge bases/portfolios, collaborative document editing (via dDocs), brainstorming on whiteboards, and creating communities with decentralized account co-management (via Safe multisigs).
 
