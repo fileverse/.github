@@ -6,7 +6,7 @@ Fileverse is an end-to-end encrypted workspace and collaboration protocol. You c
 
 <a href="https://fileverse.io" target="_blank" rel="noopener">
   <picture>
-    <img alt="image" src="https://github.com/user-attachments/assets/929d46c5-9570-4b9c-ade2-b97b6e6d64a2" />
+    <img width="3117" height="981" alt="Github New" src="https://github.com/user-attachments/assets/edbc9b30-5534-4709-94fc-20cb41fe1e6a" />
   </picture>
 </a>
 
