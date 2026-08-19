@@ -25,5 +25,7 @@ We believe in a healthier Internet built on open standards, privacy by design, a
 
 𓆡 [Fileverse API](https://www.npmjs.com/package/@fileverse/api): lets you enable LLMs (eg Claude, Codex, Cursor), tools, CLI scripts to create, edit, read, and delete end-to-end encrypted documents, sync notes from other apps, and add multiplayer agents or custom skills to docs via MCP. Local deployment keeps data on device at all times, cloud deployment allows always-on access. A secure and verifiable way of programmatically accessing dDocs.
 
+GNU General Public License Version 3 (GPLv3) 
+
 ### Learn More
 Visit [fileverse.io](https://fileverse.io) or follow us on [Twitter](https://twitter.com/fileverse) for the latest updates. dSheets & dDocs are live in public beta, try it now at [dsheets.new](http://dsheets.new/) & [ddocs.new](http://ddocs.new/) <3
