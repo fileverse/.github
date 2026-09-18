@@ -21,8 +21,6 @@ We believe in a healthier Internet built on open standards, privacy by design, a
 
 𓆉 [Walkaway Page](https://walkaway.fileverse.io/) Whatever happens to Fileverse, the ddocs.new app or dsheets.new app, you should always have a way to independently retrieve & decrypt your documents and spreadsheets. This page shows you how. Unlike most Cloud-based apps, which can access your content, feed it to AI, censor it, or lock you out of your account, dDocs and dSheets are built to give you real data sovereignty and reliable backups. You are the ultimate owner of your files. You can self-host it or even access this Walkaway page through its Onion address via Tor for extra privacy.
 
-𓅹 [Fileverse Portal](https://fileverse.io/portal)(Private Beta) is your collaborative space for everyday activities: file-sharing and storage, collaborative document and spreadsheets, and brainstorming on whiteboards.
-
 𓆡 [Fileverse API](https://www.npmjs.com/package/@fileverse/api): lets you enable LLMs (eg Claude, Codex, Cursor), tools, CLI scripts to create, edit, read, and delete end-to-end encrypted documents, sync notes from other apps, and add multiplayer agents or custom skills to docs via MCP. Local deployment keeps data on device at all times, cloud deployment allows always-on access. A secure and verifiable way of programmatically accessing dDocs.
 
 GNU General Public License Version 3 (GPLv3) 
